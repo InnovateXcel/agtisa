@@ -12,3 +12,14 @@
     <br/>
    </p>
 </p>
+
+## Notes
+<p>This repository has the source code for the AGTISA project</p>
+<p>This includes every versions of the project and the assets required</p>
+<p>The latest working version of the project is "simulation_final.py"</p>
+
+### Modules used
+<ul>pygame</ul>
+<ul>sys</ul>
+<ul>random</ul>
+<ul>requests</ul>
