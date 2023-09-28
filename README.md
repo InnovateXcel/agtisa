@@ -19,7 +19,8 @@
 <p>The latest working version of the project is "simulation_final.py"</p>
 
 ### Modules used
-<ul>pygame</ul>
-<ul>sys</ul>
-<ul>random</ul>
-<ul>requests</ul>
+<ul style="list-style-type:circle">
+  <li>pygame</li>
+  <li>sys</li>
+  <li>requests</li>
+</ul>
