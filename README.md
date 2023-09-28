@@ -1,13 +1,14 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/ShaanCoding/ReadME-Generator">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">ReadME Generator</h3>
+  <h3 align="center">Project AGTISA</h3>
 
   <p align="center">
-    An Awesome ReadME Generator To Jumpstart Your Projects!
+    <h2>Team members</h2>
+    <ul>Magesh S</ul>
+    <ul>Nithishkumar</ul>
+    <ul>Kiran Sekar S</ul>
+    <ul>Robinkumar J</ul>
+    <ul>Priyadharshini S</ul>
     <br/>
     <br/>
     <a href="https://github.com/ShaanCoding/ReadME-Generator"><strong>Explore the docs »</strong></a>
